@@ -1,0 +1,19 @@
+module.exports  = {
+    OrderList:[
+        {name:"痰湿体质",
+        text:"五珍粥",
+        other:"健脾祛湿，补肾益气",
+        price:"￥36.50"
+        },
+        {name:"痰湿体质",
+        text:"温县铁罐山药",
+        other:"补脾养胃，生津益肺",
+        price:"￥150.00"
+        },
+        {name:"痰湿体质",
+        text:"苓陈益中丸",
+        other:"厨师健脾，益气和中",
+        price:"￥98.50"
+        },  
+      ]
+    }
